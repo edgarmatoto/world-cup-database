@@ -1,1 +1,1 @@
-# build world-cup-databased using PostgreSQL
+# build world-cup-database using PostgreSQL and some query using bash scripting.
